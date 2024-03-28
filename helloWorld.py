@@ -1,2 +1,2 @@
 user_input = input("Enter your message: ")
-print(user_input)
+print(f"You entered: {user_input}")
